@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/c-bata/rtmp"
+	"github.com/EarvinKayonga/rtmp"
 )
 
 var (
